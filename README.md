@@ -11,7 +11,10 @@ The pytest documentation discusses two alternatives for test layouts. The test l
 ## pytest-cov
 
 As demonstrated in [this example](https://github.com/ryanluker/vscode-coverage-gutters/tree/94abefc02fe0df1505ca6d5a33e65bc2b949a507/example/python), use:
-`poetry run pytest --cov myapp --cov-report xml:cov.xml`
+
+`poetry run pytest --cov . --cov-report xml:cov.xml`
+
+See also: https://stackoverflow.com/a/60394674/7232335
 
 ## Coverage Gutters
 
