@@ -8,3 +8,6 @@ cov.xml
 
 # Distribution
 dist
+
+# IDE
+.vscode/
