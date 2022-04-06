@@ -2,6 +2,12 @@
 
 A template for my Python projects
 
+# Poetry for dependency management
+
+Go to Poetry's website and use the install instructions there, e.g. for Windows:
+
+https://python-poetry.org/docs/#windows-powershell-install-instructions
+
 # Testing
 
 ## pytest
